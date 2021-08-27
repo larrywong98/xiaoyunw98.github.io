@@ -10,6 +10,16 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.vertical {
+    float: left;
+    width: 100%;
+    border: 1px solid blue
+}
+
+.vertical  > *{
+    display :block;
+    width: 100%;
+}
 </style>
 </head>
 <body>
@@ -17,4 +27,9 @@ body {
         hello
     </h1>
     <a href="https://xiaoyunw98.github.io/HW3.html">Link to Homework #3</a>
+    <div id="vertical">
+        <div>First one</div>
+        <div>Second one</div>
+        <div>Third one</div>
+    </div>
 </body></html>
