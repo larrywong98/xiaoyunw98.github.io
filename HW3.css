@@ -53,6 +53,7 @@ body {
 #mainfivebottom{
     content: "";
     position: absolute;
+    width:800px;
     top: 0px;
     right: 0px;
     bottom: -1000px;
