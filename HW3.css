@@ -1,5 +1,5 @@
 body {
-    height:1000px;
+    height:900px;
     width:800px;
     margin:0px;
     padding:0px;
@@ -54,7 +54,7 @@ body {
     content: "";
     position: absolute;
     top: 0px;
-    right: 354px;
+    right: 0px;
     bottom: -1000px;
     left: 0px;
     background-image:url("https://xiaoyunw98.github.io/res/glasses.png");
