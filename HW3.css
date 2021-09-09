@@ -27,7 +27,7 @@ body {
     position:absolute;
     margin-left:63px;
     margin-top: 89px;
-    filter:brightness(1);
+    filter:brightness(1.2);
 }
 .mainthree {
     width:800px; 
@@ -62,8 +62,10 @@ body {
     background-repeat: no-repeat;
     background-size:1200px 800px;
     background-position: -200px 0px;
-    opacity: 0.25; 
+    opacity: 0.15; 
     z-index:-1;
+    filter:brightness(2);
+    filter:saturate(0);
 }
 .mainsix {
     background-image:url("https://xiaoyunw98.github.io/res/notebook.jpg");
