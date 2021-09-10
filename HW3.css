@@ -14,7 +14,7 @@ body {
 .maintwo {
     width:800px; 
     height:451px;
-    background-image:url("https://xiaoyunw98.github.io/res/lawyer.jpg");
+    background-image:url("https://csci571.com/hw/hw3/images/lawyer.jpg");
     background-size:800px 451px;
     background-position:center; 
     filter:brightness(0.8);
@@ -33,7 +33,7 @@ body {
     width:800px; 
     height:250px;
     background-color:rgba(255, 255, 255, 255);
-    /* background-image:url("https://xiaoyunw98.github.io/res/notebook.jpg"); */
+    /* background-image:url("https://csci571.com/hw/hw3/images/notebook.jpg"); */
     background-size:800px 250px;
     background-position:center;
 }
@@ -58,7 +58,7 @@ body {
     right: 0px;
     bottom: -1000px;
     left: 0px;
-    background-image:url("https://xiaoyunw98.github.io/res/glasses.png");
+    background-image:url("https://csci571.com/hw/hw3/images/glasses.png");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size:1200px 800px;
@@ -69,7 +69,7 @@ body {
     filter:saturate(0);
 }
 .mainsix {
-    background-image:url("https://xiaoyunw98.github.io/res/notebook.jpg");
+    background-image:url("https://csci571.com/hw/hw3/images/notebook.jpg");
     background-size:800px 525px;
     background-position:center; 
     width:800px;
@@ -269,7 +269,7 @@ body {
 #subfive3{
     margin-top: 120px;
     margin-left: 60px;
-    background-image:url("https://xiaoyunw98.github.io/res/grid.png");
+    background-image:url("https://csci571.com/hw/hw3/images/grid.png");
     background-size:300px 300px;
     height:324px;
     width:205px;
@@ -297,7 +297,7 @@ body {
 #subfive4{
     margin-top: 120px;
     margin-left:  299px;
-    background-image:url("https://xiaoyunw98.github.io/res/grid.png");
+    background-image:url("https://csci571.com/hw/hw3/images/grid.png");
     background-size:300px 300px;
     background-position: center;
     height:324px;
@@ -326,7 +326,7 @@ body {
 #subfive5{
     margin-top: 120px;
     margin-left: 536px;
-    background-image:url("https://xiaoyunw98.github.io/res/grid.png");
+    background-image:url("https://csci571.com/hw/hw3/images/grid.png");
     background-size:300px 300px;
     height:324px;
     width:205px;
@@ -434,7 +434,7 @@ body {
 #aseven1{
     height:  25px;
     width: 25px;
-    background-image: url("https://xiaoyunw98.github.io/res/facebook.png");
+    background-image: url("https://csci571.com/hw/hw3/images/facebook.png");
     background-size: 25px 25px;
     background-position:center;
     border: none;
@@ -445,7 +445,7 @@ body {
     margin-left:25px;
     height: 25px;
     width:25px;
-    background-image: url("https://xiaoyunw98.github.io/res/twitter.png");
+    background-image: url("https://csci571.com/hw/hw3/images/twitter.png");
     background-size: 25px 25px;
     background-position:center;
     border: none;
@@ -457,7 +457,7 @@ body {
     height:  25px;
     width: 25px;
      
-    background-image: url("https://xiaoyunw98.github.io/res/instagram.png");
+    background-image: url("https://csci571.com/hw/hw3/images/instagram.png");
     background-size: 25px 25px;
     background-position:center;
     border: none;
@@ -468,7 +468,7 @@ body {
     margin-left:25px;
     height:  25px;
     width: 25px;
-    background-image: url("https://xiaoyunw98.github.io/res/youtube.png");
+    background-image: url("https://csci571.com/hw/hw3/images/youtube.png");
     background-size: 25px 25px;
     background-position:center;
     border: none;
@@ -479,7 +479,7 @@ body {
     margin-left:25px;
     height:  25px;
     width: 25px;
-    background-image: url("https://xiaoyunw98.github.io/res/googleplus.png");
+    background-image: url("https://csci571.com/hw/hw3/images/googleplus.png");
     background-size: 25px 25px;
     background-position:center;
     border: none;
